@@ -1,13 +1,9 @@
 {
-    "name": "jimdo/prometheus_client_php",
+    "name": "tuanonehour/prometheus_client_php",
     "authors": [
         {
-            "name": "Joscha",
-            "email": "joscha@schnipseljagd.org"
-        },
-        {
-            "name": "Jan Brauer",
-            "email": "jan.brauer@jimdo.com"
+            "name": "Tuan Do",
+            "email": "tuanda831@gmail.org"
         }
     ],
     "require": {
